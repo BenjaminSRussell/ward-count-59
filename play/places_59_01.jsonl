@@ -412,3 +412,6 @@
 {"n":412,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west dock. arc left open. 7 steps. The lamp stays for the push."}
 {"n":413,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the lamp at Switchyard. Nobody past the west dock. We push in 8 steps. Arc on the left lane, open."}
 {"n":414,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard west dock. Matt keeps the lamp for the push. 2 steps, arc on the left lane, open."}
+{"n":415,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west dock. arc left open. 3 steps. The lamp stays for the push."}
+{"n":416,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Switchyard. Nobody past the west dock. We push in 4 steps. Arc on the left lane, open."}
+{"n":417,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard west dock. Nia keeps the lamp for the push. 5 steps, arc on the left lane, open."}
