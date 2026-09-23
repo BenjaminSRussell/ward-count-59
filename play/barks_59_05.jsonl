@@ -311,3 +311,6 @@
 {"n":311,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north dock. Bess keeps the crate for the push. 7 steps, arc on the left lane, open."}
 {"n":312,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north dock. arc left open. 8 steps. The crate stays for the push."}
 {"n":313,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the lamp at Ward gate. Nobody past the north dock. We push in 2 steps. Arc on the left lane, open."}
+{"n":314,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate north dock. Matt keeps the lamp for the push. 3 steps, arc on the left lane, open."}
+{"n":315,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north dock. arc left open. 4 steps. The lamp stays for the push."}
+{"n":316,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Ward gate. Nobody past the north dock. We push in 5 steps. Arc on the left lane, open."}
