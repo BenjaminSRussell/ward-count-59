@@ -938,3 +938,6 @@
 {"n":938,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the shutter at South stair. Nobody past the south dock. We push in 2 steps. Arc on the left lane, open."}
 {"n":939,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair south dock. Bess keeps the shutter for the push. 3 steps, arc on the left lane, open."}
 {"n":940,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south dock. arc left open. 4 steps. The shutter stays for the push."}
+{"n":941,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the shutter at the pier. Nobody past the south dock. We push in 5 steps. Arc on the left lane, open."}
+{"n":942,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier south dock. Matt keeps the shutter for the push. 6 steps, arc on the left lane, open."}
+{"n":943,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south dock. arc left open. 7 steps. The shutter stays for the push."}
