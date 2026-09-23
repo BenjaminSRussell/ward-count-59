@@ -942,3 +942,6 @@
 {"n":942,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at High line. Nobody past the west dock. We push in 6 steps. Arc on the left lane, open."}
 {"n":943,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line west dock. Bess keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
 {"n":944,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west dock. arc left open. 8 steps. The hydrant stays for the push."}
+{"n":945,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Ward gate. Nobody past the west dock. We push in 2 steps. Arc on the left lane, open."}
+{"n":946,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate west dock. Matt keeps the barrel for the push. 3 steps, arc on the left lane, open."}
+{"n":947,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west dock. arc left open. 4 steps. The barrel stays for the push."}
