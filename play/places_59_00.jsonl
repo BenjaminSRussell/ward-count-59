@@ -305,3 +305,6 @@
 {"n":305,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south mouth. arc left open. 6 steps. The badge door stays for the push."}
 {"n":306,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at the Lot. Nobody past the south mouth. We push in 7 steps. Arc on the left lane, open."}
 {"n":307,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot south mouth. Bess keeps the badge door for the push. 8 steps, arc on the left lane, open."}
+{"n":308,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south mouth. arc left open. 2 steps. The badge door stays for the push."}
+{"n":309,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at Stockyard fence. Nobody past the south mouth. We push in 3 steps. Arc on the left lane, open."}
+{"n":310,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence south mouth. Matt keeps the badge door for the push. 4 steps, arc on the left lane, open."}
