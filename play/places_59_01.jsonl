@@ -232,3 +232,6 @@
 {"n":232,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west dock. arc left open. 2 steps. The crate stays for the push."}
 {"n":233,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Clinic roof. Nobody past the west dock. We push in 3 steps. Arc on the left lane, open."}
 {"n":234,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof west dock. Matt keeps the crate for the push. 4 steps, arc on the left lane, open."}
+{"n":235,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west dock. arc left open. 5 steps. The crate stays for the push."}
+{"n":236,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at Clinic roof. Nobody past the west dock. We push in 6 steps. Arc on the left lane, open."}
+{"n":237,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof west dock. Nia keeps the crate for the push. 7 steps, arc on the left lane, open."}
