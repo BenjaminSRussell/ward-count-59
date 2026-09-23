@@ -273,3 +273,6 @@
 {"n":273,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north dock. arc left open. 4 steps. The crate stays for the push."}
 {"n":274,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Clinic roof. Nobody past the north dock. We push in 5 steps. Arc on the left lane, open."}
 {"n":275,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof north dock. Bess keeps the crate for the push. 6 steps, arc on the left lane, open."}
+{"n":276,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north dock. arc left open. 7 steps. The crate stays for the push."}
+{"n":277,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Switchyard. Nobody past the north dock. We push in 8 steps. Arc on the left lane, open."}
+{"n":278,"kind":"place","name":"Switchyard north dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Switchyard north dock. Matt keeps the crate for the push. 2 steps, arc on the left lane, open."}
