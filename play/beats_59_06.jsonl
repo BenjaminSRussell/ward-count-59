@@ -756,3 +756,6 @@
 {"n":756,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the plywood at South stair. Nobody past the south dock. We push in 3 steps. Arc on the left lane, open."}
 {"n":757,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair south dock. Nia keeps the plywood for the push. 4 steps, arc on the left lane, open."}
 {"n":758,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south dock. arc left open. 5 steps. The plywood stays for the push."}
+{"n":759,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the plywood at South stair. Nobody past the south dock. We push in 6 steps. Arc on the left lane, open."}
+{"n":760,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair south dock. Ivo keeps the plywood for the push. 7 steps, arc on the left lane, open."}
+{"n":761,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south dock. arc left open. 8 steps. The plywood stays for the push."}
