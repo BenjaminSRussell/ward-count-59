@@ -295,3 +295,6 @@
 {"n":295,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west dock. arc left open. 2 steps. The lamp stays for the push."}
 {"n":296,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Kessler alley. Nobody past the west dock. We push in 3 steps. Arc on the left lane, open."}
 {"n":297,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley west dock. Nia keeps the lamp for the push. 4 steps, arc on the left lane, open."}
+{"n":298,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west dock. arc left open. 5 steps. The lamp stays for the push."}
+{"n":299,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the lamp at Kessler alley. Nobody past the west dock. We push in 6 steps. Arc on the left lane, open."}
+{"n":300,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west dock. Ivo keeps the lamp for the push. 7 steps, arc on the left lane, open."}
