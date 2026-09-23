@@ -991,3 +991,6 @@
 {"n":991,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley east dock. Bess keeps the awning for the push. 3 steps, arc on the left lane, open."}
 {"n":992,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east dock. arc left open. 4 steps. The awning stays for the push."}
 {"n":993,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at the Lot. Nobody past the east dock. We push in 5 steps. Arc on the left lane, open."}
+{"n":994,"kind":"place","name":"the Lot east dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot east dock. Matt keeps the awning for the push. 6 steps, arc on the left lane, open."}
+{"n":995,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east dock. arc left open. 7 steps. The awning stays for the push."}
+{"n":996,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the awning at the Lot. Nobody past the east dock. We push in 8 steps. Arc on the left lane, open."}
