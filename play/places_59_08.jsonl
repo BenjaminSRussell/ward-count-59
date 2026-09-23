@@ -795,3 +795,6 @@
 {"n":795,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west gutter. arc left open. 5 steps. The plywood stays for the push."}
 {"n":796,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the plywood at Clinic roof. Nobody past the west gutter. We push in 6 steps. Arc on the left lane, open."}
 {"n":797,"kind":"place","name":"Clinic roof west gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof west gutter. Nia keeps the plywood for the push. 7 steps, arc on the left lane, open."}
+{"n":798,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west gutter. arc left open. 8 steps. The plywood stays for the push."}
+{"n":799,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the plywood at Clinic roof. Nobody past the west gutter. We push in 2 steps. Arc on the left lane, open."}
+{"n":800,"kind":"place","name":"Clinic roof west gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof west gutter. Ivo keeps the plywood for the push. 3 steps, arc on the left lane, open."}
