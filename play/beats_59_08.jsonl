@@ -922,3 +922,6 @@
 {"n":922,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Mast yard. Nobody past the west gutter. We push in 6 steps. Arc on the left lane, open."}
 {"n":923,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard west gutter. Bess keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
 {"n":924,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west gutter. arc left open. 8 steps. The hydrant stays for the push."}
+{"n":925,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Last Light. Nobody past the west gutter. We push in 2 steps. Arc on the left lane, open."}
+{"n":926,"kind":"place","name":"Last Light west gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light west gutter. Matt keeps the hydrant for the push. 3 steps, arc on the left lane, open."}
+{"n":927,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west gutter. arc left open. 4 steps. The hydrant stays for the push."}
