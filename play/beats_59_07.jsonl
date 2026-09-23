@@ -779,3 +779,6 @@
 {"n":779,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rope at the pier. Nobody past the south dock. We push in 4 steps. Arc on the left lane, open."}
 {"n":780,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier south dock. Ivo keeps the rope for the push. 5 steps, arc on the left lane, open."}
 {"n":781,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south dock. arc left open. 6 steps. The rope stays for the push."}
+{"n":782,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rope at the pier. Nobody past the south dock. We push in 7 steps. Arc on the left lane, open."}
+{"n":783,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier south dock. Bess keeps the rope for the push. 8 steps, arc on the left lane, open."}
+{"n":784,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south dock. arc left open. 2 steps. The rope stays for the push."}
